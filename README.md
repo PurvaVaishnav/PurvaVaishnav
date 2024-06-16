@@ -12,9 +12,6 @@ Location: Bengaluru, Karnataka
 Education: Bachelor of Science in Mathematics from Gujrat University
 
 
-Currently I'm wroking on this projects:
-
-
 
 
 I'm always looking to improve my skills and learn new technologies. Currently, I'm focusing on:
